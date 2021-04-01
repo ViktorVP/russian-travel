@@ -1,23 +1,12 @@
-# Проект 3: Путешествие по России
+# Travel around Russia
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+The third project of YandexPracticum. Also it is my first adaptive layout. Adaptive made by flexbox and grid technologies. In this page you can read about interesting places in Russia for traveling.
 
-**Интро**
+instruction 
+You can use this page in current version of FireFox, Google Chrome, Yandex Browser.
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+Project link: https://ViktorVP.github.io/russian-travel
 
-**Figma**
+Developed by Viktor Potapov.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!

@@ -1,0 +1,35 @@
+.place-position {
+    margin: 0;
+    padding-top: 80px;
+    }
+
+.place-position:first-child {
+    padding-top: 0;
+}
+
+@media (max-width: 768px) {
+    .place-position {
+        max-width: 720px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .place-position {
+        padding-top: 73px;
+    }
+    
+    .place-position:first-child {
+        padding-top: 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .place-position {
+        padding-top: 50px;
+    }
+    
+    .place-position:first-child {
+        padding-top: 0;
+    }
+}

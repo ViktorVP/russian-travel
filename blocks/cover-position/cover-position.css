@@ -1,0 +1,15 @@
+.cover-position {
+    margin: 92px auto 0;
+}
+
+@media (max-width: 768px) {
+    .cover-position {
+        margin: 65px auto 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .cover-position {
+        margin: 66px auto 0;
+    }
+}
