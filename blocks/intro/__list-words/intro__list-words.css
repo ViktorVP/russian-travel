@@ -1,6 +1,7 @@
-.intro__list_type_number {
+.intro__list-words {
     font-family: inherit;
     font-size: 12px;
-    font-weight: normal;
+    font-weight: bold;
     font-style: normal;
+    line-height: 18px;
 }
