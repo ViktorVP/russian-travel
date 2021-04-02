@@ -11,7 +11,7 @@
     text-align: center;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 535px) {
     .cover__title {
         max-width: 288px;
         font-size: 32px;
