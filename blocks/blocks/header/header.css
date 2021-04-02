@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    max-width: 1184px;
+    padding-top: 34px;
+    color: inherit;
+}
+
+@media (max-width: 1024px) {
+  .header {
+      max-width: 928px;
+      padding-top: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+      max-width: 720px;
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+      max-width: 288px;
+      padding-top: 16px;
+  }
+}

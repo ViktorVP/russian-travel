@@ -1,0 +1,21 @@
+.footer__link {
+    margin: 0;
+    padding-right: 18px;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: inherit;
+    text-decoration: none;
+}
+
+@media (max-width: 425px) {
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+        max-width: 186px;
+        padding-right: 0;
+    }
+}
+

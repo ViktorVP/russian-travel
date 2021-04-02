@@ -1,0 +1,10 @@
+.places {
+    max-width: 984px;
+    font-family: inherit;
+}
+
+@media (max-width: 1024px) {
+    .places {
+        max-width: 928px;  
+    } 
+}
