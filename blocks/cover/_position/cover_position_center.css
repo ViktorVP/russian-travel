@@ -1,0 +1,15 @@
+.cover_position_center {
+    margin: 92px auto 0;
+}
+
+@media (max-width: 768px) {
+    .cover_position_center {
+        margin: 65px auto 0;
+    }
+}
+
+@media (max-width: 425px) {
+    .cover_position_center {
+        margin: 66px auto 0;
+    }
+}

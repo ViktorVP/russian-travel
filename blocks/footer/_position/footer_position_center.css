@@ -1,0 +1,18 @@
+.footer_position_center {
+    margin: 0 auto;
+    padding-top: 92px;
+    padding-bottom: 24px;
+}
+
+@media (max-width: 768px) {
+    .footer_position_center {
+        padding-top: 88px;
+    }
+}
+
+@media (max-width: 425px) {
+    .footer_position_center {
+        padding-top: 64px;
+        padding-left: 16px;
+    }
+}
