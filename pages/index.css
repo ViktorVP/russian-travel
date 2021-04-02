@@ -2,10 +2,10 @@
 @import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/root/root.css);
-@import url(../blocks/root/_position/root_position_center.css
+@import url(../blocks/root/_position/root_position_center.css);
 
 @import url(../blocks/header/header.css);
-@import url(../blocks/header/__position/header__position.css);
+@import url(../blocks/header/_position/header_position_center.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/header__link-container/header__link-container.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
