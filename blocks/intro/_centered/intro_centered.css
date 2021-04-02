@@ -1,23 +1,23 @@
-.intro_position_center {
+.intro_centered {
     margin: 0 auto;
     max-width: 984px;
 }
 
 @media (max-width: 1024px) {
-    .intro_position_center {
+    .intro_centered {
         padding-left: 48px; 
     } 
 }
 
 @media (max-width: 768px) {
-    .intro_position_center {
+    .intro_centered {
         max-width: 720px;
         padding: 0;
     } 
 }
 
 @media (max-width: 320px) {
-    .intro_position_center {
+    .intro_centered {
         max-width: 288px;
     } 
 }

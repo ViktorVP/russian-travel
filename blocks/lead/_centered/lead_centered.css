@@ -1,22 +1,22 @@
-.lead_position_center {
+.lead_centered {
     max-width: 984px;
     margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
-    .lead_position_center {
+    .lead_centered {
         max-width: 928px;
     } 
 }
 
 @media (max-width: 768px) {
-    .lead_position_center {
+    .lead_centered {
         max-width: 768px;
     } 
 }
 
 @media (max-width: 320px) {
-    .lead_position_center {
+    .lead_centered {
         max-width: 320px;
     } 
 }

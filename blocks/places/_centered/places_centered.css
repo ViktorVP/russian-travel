@@ -1,10 +1,10 @@
-.places_position_center {
+.places_centered {
     margin: 0 auto;
     padding-top: 92px;
 }
 
 @media (max-width: 320px) {
-    .places_position_center {
+    .places_centered {
         padding-top: 64px;
     }
 }
