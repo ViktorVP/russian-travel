@@ -1,10 +1,10 @@
-.places-position {
+.places__position {
     margin: 0 auto;
     padding-top: 92px;
 }
 
 @media (max-width: 320px) {
-    .places-position {
+    .places__position {
         padding-top: 64px;
     }
 }
